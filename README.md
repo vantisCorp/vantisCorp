@@ -54,6 +54,109 @@
 
 ---
 
+<!-- ===================== ABOUT SECTION ===================== -->
+<div align="center">
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=0&color=DC143C&center=true&vCenter=true&width=600&height=40&lines=🚀%20Building%20the%20Future%20of%20Software" alt="Mission"/>
+  
+</div>
+
+<table>
+<tr>
+<td width="50%">
+  
+  ### 🎯 Mission
+  
+  Building next-generation software with **security-first** approach and **quantum-resistant** architecture. Creating alternatives to mainstream software that respect privacy and performance.
+  
+</td>
+<td width="50%">
+  
+  ### 💡 Philosophy
+  
+  - 🔒 **Security by Design** - Not an afterthought
+  - 🦀 **Rust-First** - Memory safety without GC
+  - 🤖 **AI-Native** - Intelligence built-in
+  - 🌍 **Open Source** - Transparency & trust
+  
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ===================== SKILL ICONS ===================== -->
+<div align="center">
+  
+  <h3>🛠️ Technology Stack</h3>
+  
+  <a href="https://www.rust-lang.org/">
+    <img src="https://skillicons.dev/icons?i=rust&perline=1" alt="Rust" width="50"/>
+  </a>
+  <a href="https://www.typescriptlang.org/">
+    <img src="https://skillicons.dev/icons?i=ts&perline=1" alt="TypeScript" width="50"/>
+  </a>
+  <a href="https://www.python.org/">
+    <img src="https://skillicons.dev/icons?i=python&perline=1" alt="Python" width="50"/>
+  </a>
+  <a href="https://git-scm.com/">
+    <img src="https://skillicons.dev/icons?i=git&perline=1" alt="Git" width="50"/>
+  </a>
+  <a href="https://www.docker.com/">
+    <img src="https://skillicons.dev/icons?i=docker&perline=1" alt="Docker" width="50"/>
+  </a>
+  <a href="https://kubernetes.io/">
+    <img src="https://skillicons.dev/icons?i=kubernetes&perline=1" alt="Kubernetes" width="50"/>
+  </a>
+  <a href="https://www.linux.org/">
+    <img src="https://skillicons.dev/icons?i=linux&perline=1" alt="Linux" width="50"/>
+  </a>
+  <a href="https://react.dev/">
+    <img src="https://skillicons.dev/icons?i=react&perline=1" alt="React" width="50"/>
+  </a>
+  <a href="https://tauri.app/">
+    <img src="https://skillicons.dev/icons?i=tauri&perline=1" alt="Tauri" width="50"/>
+  </a>
+  <a href="https://aws.amazon.com/">
+    <img src="https://skillicons.dev/icons?i=aws&perline=1" alt="AWS" width="50"/>
+  </a>
+  
+</div>
+
+---
+
+<!-- ===================== SOCIAL & LINKS ===================== -->
+<div align="center">
+  
+  <h3>🌐 Connect With Us</h3>
+  
+  <a href="https://github.com/vantisCorp">
+    <img src="https://img.shields.io/badge/GitHub-vantisCorp-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://discord.gg/vantis">
+    <img src="https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+  <a href="https://twitter.com/vantisCorp">
+    <img src="https://img.shields.io/badge/Twitter-@vantisCorp-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://linkedin.com/company/vantisCorp">
+    <img src="https://img.shields.io/badge/LinkedIn-vantisCorp-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  
+  <br/><br/>
+  
+  <!-- Sponsor Button -->
+  <a href="https://github.com/sponsors/vantisCorp">
+    <img src="https://img.shields.io/badge/Sponsor-❤️-DC143C?style=for-the-badge&logo=githubsponsors&logoColor=white&labelColor=0A0A0A" alt="Sponsor"/>
+  </a>
+  <a href="https://ko-fi.com/vantisCorp">
+    <img src="https://img.shields.io/badge/Ko--fi-Buy%20me%20a%20coffee-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white&labelColor=0A0A0A" alt="Ko-fi"/>
+  </a>
+  
+</div>
+
+---
+
 <!-- ===================== INTERACTIVE MENU ===================== -->
 <details>
 <summary><h2 align="center">🎮 INTERACTIVE MENU - Choose Your Path</h2></summary>
@@ -592,6 +695,48 @@ npx create-vantis-app  # Coming Soon!
 
 </details>
 
+<!-- ===================== ROADMAP ===================== -->
+<details>
+<summary><h2>🗺️ Development Roadmap</h2></summary>
+
+<div align="center">
+
+### 2024-2025 Roadmap
+
+```mermaid
+gantt
+    title VantisCorp Development Timeline
+    dateFormat  YYYY-MM
+    section Core Systems
+    VantisOS Alpha        :done, 2024-01, 2024-06
+    VantisOS Beta         :active, 2024-06, 2024-12
+    VantisOS 1.0          :2025-01, 2025-06
+    section Security
+    V-Sentinel MVP        :done, 2024-01, 2024-08
+    VantisVPN Beta        :active, 2024-06, 2024-12
+    V-Mail Release        :2024-10, 2025-02
+    section Media
+    V-Streaming Alpha     :active, 2024-06, 2024-12
+    Media Player 1.0      :2024-10, 2025-03
+    section Productivity
+    VantisOffice Alpha    :2024-08, 2025-02
+    VantisWeb Beta        :2024-10, 2025-04
+```
+
+### Key Milestones
+
+| Quarter | Goal | Status |
+|---------|------|--------|
+| Q4 2024 | VantisOS Beta Release | 🚧 In Progress |
+| Q4 2024 | V-Streaming Alpha | 🚧 In Progress |
+| Q1 2025 | VantisVPN 1.0 | 📋 Planned |
+| Q1 2025 | VantisOS 1.0 RC | 📋 Planned |
+| Q2 2025 | Full Ecosystem Integration | 📋 Planned |
+
+</div>
+
+</details>
+
 <!-- ===================== TECHNOLOGY STATS ===================== -->
 <details>
 <summary><h2>📊 TECHNOLOGY STATISTICS</h2></summary>
@@ -640,6 +785,41 @@ npx create-vantis-app  # Coming Soon!
 
 </details>
 
+<!-- ===================== RECENT ACTIVITY ===================== -->
+<details>
+<summary><h2>📝 Recent Activity</h2></summary>
+
+<!--START_SECTION:activity-->
+1. 🎉 Merged PR in VantisOS
+2. 🐛 Fixed issue in V-Sentinel
+3. ✨ New feature in V-Streaming
+4. 📝 Updated documentation
+5. 🔒 Security improvements in VantisVPN
+<!--END_SECTION:activity-->
+
+> 📊 Activity automatically updated by GitHub Actions
+
+</details>
+
+<!-- ===================== WAKATIME STATS ===================== -->
+<details>
+<summary><h2>⏱️ Coding Time Statistics</h2></summary>
+
+<div align="center">
+
+> 📈 Weekly coding activity powered by WakaTime
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<a href="https://wakatime.com/@vantisCorp">
+  <img src="https://img.shields.io/badge/WakaTime-View%20Full%20Stats-00A97F?style=for-the-badge&logo=clock&logoColor=white&labelColor=0A0A0A" alt="WakaTime"/>
+</a>
+
+</div>
+
+</details>
+
 <!-- ===================== VISITOR MAP ===================== -->
 <div align="center">
   
@@ -649,10 +829,43 @@ npx create-vantis-app  # Coming Soon!
     <img src="https://api.visitorbadge.io/api/visitors?path=vantisCorp&labelColor=0A0A0A&countColor=DC143C&labelStyle=upper" alt="Visitor Count"/>
   </a>
   
-  <!-- GitHub Stats -->
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=vantisCorp&show_icons=true&theme=dark&hide_border=true&bg_color=0A0A0A&title_color=DC143C&icon_color=DC143C&text_color=FFFFFF" alt="GitHub Stats"/>
-  </p>
+</div>
+
+<!-- ===================== ACTIVITY GRAPH ===================== -->
+<div align="center">
+  
+  <h3>📊 Activity Graph</h3>
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vantisCorp&bg_color=0A0A0A&color=DC143C&line=DC143C&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" width="100%"/>
+  
+</div>
+
+<!-- ===================== GITHUB TROPHY ===================== -->
+<div align="center">
+  
+  <h3>🏆 Achievements</h3>
+  
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=vantisCorp&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=15" alt="Trophy" width="100%"/>
+  </a>
+  
+</div>
+
+<!-- ===================== GITHUB STATS ===================== -->
+<div align="center">
+  
+  <h3>📈 Statistics</h3>
+  
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=vantisCorp&show_icons=true&theme=dark&hide_border=true&bg_color=0A0A0A&title_color=DC143C&icon_color=DC143C&text_color=FFFFFF&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vantisCorp&layout=compact&theme=dark&hide_border=true&bg_color=0A0A0A&title_color=DC143C&text_color=FFFFFF" alt="Top Languages"/>
+      </td>
+    </tr>
+  </table>
   
   <!-- Streak Stats -->
   <p>
