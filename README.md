@@ -24,7 +24,7 @@
 
   <!-- Dynamic Badges Row -->
   <p align="center">
-    <img src="https://img.shields.io/badge/Status-Production%20Ready-DC143C?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0A0A0A" alt="Status"/>
+    <img src="https://img.shields.io/badge/Status-Experimental%20Sandbox-FF6B00?style=for-the-badge&logo=flask&logoColor=white&labelColor=0A0A0A" alt="Status"/>
     <img src="https://img.shields.io/badge/Architecture-Microservices-DC143C?style=for-the-badge&logo=docker&logoColor=white&labelColor=0A0A0A" alt="Architecture"/>
     <img src="https://img.shields.io/badge/Security-Quantum%20Resistant-DC143C?style=for-the-badge&logo=shield-check&logoColor=white&labelColor=0A0A0A" alt="Security"/>
     <img src="https://img.shields.io/badge/Rust-🦀%20Primary-DC143C?style=for-the-badge&logo=rust&logoColor=white&labelColor=0A0A0A" alt="Rust"/>
@@ -39,6 +39,20 @@
   </p>
 
 </div>
+
+<!-- ===================== DISCLAIMER ===================== -->
+<div align="center">
+  
+  <img src="https://img.shields.io/badge/⚠️-IMPORTANT%20DISCLAIMER-FF6B00?style=for-the-badge&labelColor=0A0A0A" alt="Disclaimer"/>
+  
+</div>
+
+> ⚠️ **DISCLAIMER: EXPERIMENTAL SANDBOX & FORKED PROJECTS**
+> 
+> * **My Projects:** This profile serves as an ongoing experiment and testbed. My original repositories are **NOT** officially released, production-ready products. Expect breaking changes, WIP branches, and continuous evolution as I use AI tools to generate and refine the codebase.
+> * **Third-Party Forks (e.g., OBS):** Some repositories found here are **not my original creations**. They have been forked or mirrored to my profile solely for custom configuration, personal development, and testing. **Do not use my forks for your daily use unless you know exactly what you are doing.** Please always use and support the official, upstream repositories for such software (e.g., the official OBS Studio repo, Rust repository or Kernel).
+
+---
 
 <!-- ===================== INTERACTIVE MENU ===================== -->
 <details>
