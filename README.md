@@ -965,7 +965,7 @@ gantt
   </p>
   
   <p>
-    <i>Last updated: <!-- LAST_UPDATE -->2025</i>
+    <i>Last updated: 2026-03-09
   </p>
   
 </div>
